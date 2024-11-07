@@ -1,4 +1,14 @@
 {
+    "video264": {
+        "url": "https://www.youtube.com/watch?v=OVkjR6Ui1wo",
+        "title": "[Best 🏁] Race Clicker 🥵 No Linkvertise! Auto Click / Auto Rebirth and Race 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Maanaaaa/ManaV2ForRoblox/main/MainScript.lua'))()"
+    },
+    "video263": {
+        "url": "https://www.youtube.com/watch?v=nWGrjCYt6j4",
+        "title": "[New! 🛡️] Attack on Titan Revolution 🔥 No Linkvertise! OP auto Titan 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/savinggracelua/cracks/m/tekkit'))()"
+    },
    "video262": {
         "url": "https://www.youtube.com/watch?v=PVVZJUa6nbw",
         "title": "[New! 🎃] Pull a Sword 🔥 No Linkvertise! Auto Farm Event! Auto Boss!🔥 PC & Mobile! (2024)",
