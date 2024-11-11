@@ -1,4 +1,19 @@
 {
+    "video267": {
+        "url": "https://www.youtube.com/watch?v=0HDRht9hKwo",
+        "title": "[Best! 🃏] Lier's Table 🔥 No Linkvertise! Insta Kill By Liar! PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/cowka/c0wkaHub/refs/heads/main/Liars%20Club'))()"
+    },
+    "video266": {
+        "url": "https://www.youtube.com/watch?v=I2_jEGZFRkw",
+        "title": "[New! 🚔] Jail Break 🔥 No Linkvertise! Auto Arrast! Server Hopper! PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/BlitzIsKing/UniversalFarm/main/Loader/Regular'))()"
+    },
+    "video265": {
+        "url": "https://www.youtube.com/watch?v=rOBp9a4EBwA",
+        "title": "[OP 🔫] Westbound 🌄 No Linkvertise! Aim Lock and BOT / ESP / Teleport🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Exunys/westbound.pro-Utilites/main/Main.lua'))()"
+    },
     "video264": {
         "url": "https://www.youtube.com/watch?v=OVkjR6Ui1wo",
         "title": "[Best 🏁] Race Clicker 🥵 No Linkvertise! Auto Click / Auto Rebirth and Race 🔥 PC & Mobile! (2024)",
