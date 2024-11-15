@@ -1,4 +1,19 @@
 {
+    "video272": {
+        "url": "https://www.youtube.com/watch?v=vLA7b6x-xEI",
+        "title": "[OP! ✨] Dress To Impress Script 🔥Auto Farm Money 🔥 No Linkvertise! PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/hellohellohell012321/DTI-GUI-V2/main/dti_gui_v2.lua',true))()"
+    },
+    "video271": {
+        "url": "https://www.youtube.com/watch?v=IdGmoQAWntc",
+        "title": "[Best! ⚔️] Sword Clashers Simulator Script 🔥 No Linkvertise! Kill Aura 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/SwordClashers'))()"
+    },
+    "video270": {
+        "url": "https://www.youtube.com/watch?v=rD3LmMGZMm8",
+        "title": "[OP! 🔫] Arsenal Script 🔥 No Linkvertise! Aim Bot / TP to Player / Best! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/9menta/Archives/refs/heads/main/ElixirClient.lua',true))()"
+    },
     "video269": {
         "url": "https://www.youtube.com/watch?v=6CH3dYTJof0",
         "title": "[LDS HUB👑] Tower Of Hell 🔥 No Linkvertise! Auto Farm / Speed and Jump! 🔥 PC & Mobile! (2024)",
