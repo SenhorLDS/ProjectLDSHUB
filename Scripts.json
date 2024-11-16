@@ -1,4 +1,19 @@
 {
+    "video275": {
+        "url": "https://www.youtube.com/watch?v=TOHB0urojTE",
+        "title": "[New!] 🌀 Universal Hub Script 🔥 No Linkvertise! 400 HUB!! FE scripts! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/OpscriptPRO/OP-script/main/Malay%20hub%20V2'))()"
+    },
+    "video274": {
+        "url": "https://www.youtube.com/watch?v=XDR2sIrESDA",
+        "title": "[Best!] 🏇 Horse Race Script 🔥INF Trophy / Auto Train! No Linkvertise! PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://rawscripts.net/raw/Horse-Race-New-Partner-Inf-wins-and-more-22383'))()"
+    },
+    "video273": {
+        "url": "https://www.youtube.com/watch?v=peXPdyLNYBA",
+        "title": "[New!] 🌐 Google Be Internet Awesome World Script 🔥 Free UGC! No Linkvertise! PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://pastefy.app/1bwEkiRN/raw'))()"
+    },
     "video272": {
         "url": "https://www.youtube.com/watch?v=vLA7b6x-xEI",
         "title": "[OP! ✨] Dress To Impress Script 🔥Auto Farm Money 🔥 No Linkvertise! PC & Mobile! (2024)",
