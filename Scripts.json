@@ -1,4 +1,19 @@
 {
+    "video280": {
+        "url": "https://www.youtube.com/watch?v=b20AKy39BNY",
+        "title": "[New!] 🐝 Bee Swarm Simulator Script 🔥 Auto Farm / Auto Sell! Exploit MOBILE & PC | PASTEBIN (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/VerbalHubz/Verbal-Hub/refs/heads/main/Bee%20Swarm%20Sim.Lua',true))()"
+    },
+    "video279": {
+        "url": "https://www.youtube.com/watch?v=yNT1tykEEN8",
+        "title": "[New!] 🔪 KAT Script Exploit 🔥Auto Farm Kills!! / ESP / and more! 🔥 MOBILE & PC | PASTEBIN (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/zReal-King/Knife-Ability-Test/main/Gui'))()"
+    },
+    "video278": {
+        "url": "https://www.youtube.com/watch?v=PWabx1hI7ZU",
+        "title": "[New!] 🌪️ Natural Disaster Survival Script 🔥 Auto Farm! 🔥 Exploit MOBILE & PC | PASTEBIN (2024)",
+            "script": "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/8934828e527eac03676e59deb80c055f.lua'))()"
+    },
     "video277": {
         "url": "https://www.youtube.com/watch?v=eegpfW9qbyE",
         "title": "[OP!] 🥊 Power Slap Simulator Script 🔥 No Linkvertise! INF Strength!! 🔥 PC & Mobile! (2024)",
