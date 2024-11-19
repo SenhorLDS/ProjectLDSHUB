@@ -1,4 +1,19 @@
 {
+    "video283": {
+        "url": "https://www.youtube.com/watch?v=RGdsmHaxfDw",
+        "title": "[Best! 🎮] Free Gamepass 🔥 No Linkvertise! Free UGC / Gamepass / Products!! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/cnzins1/scripts/refs/heads/main/infinite%20creds%20no%20scope%20arcade'))()"
+    },
+    "video282": {
+        "url": "https://www.youtube.com/watch?v=6P93pIluH7Q",
+        "title": "[OP! 🐉] Creatures of Sonaria 🔥 No Linkvertise! Auto Eat! Auto Farm Dragons! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/alan11ago/Hub/refs/heads/main/ImpHub.lua'))()"
+    },
+    "video281": {
+        "url": "https://www.youtube.com/watch?v=hXwcn7ZPP68",
+        "title": "[New! 🎆] Elemental Grounds 🔥 No Linkvertise! Auto Farm Levels! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/SkibidiCen/MainMenu/main/Code'))()"
+    },
     "video280": {
         "url": "https://www.youtube.com/watch?v=b20AKy39BNY",
         "title": "[New!] 🐝 Bee Swarm Simulator Script 🔥 Auto Farm / Auto Sell! Exploit MOBILE & PC | PASTEBIN (2024)",
