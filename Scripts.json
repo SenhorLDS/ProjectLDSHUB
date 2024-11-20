@@ -1,4 +1,19 @@
 {
+    "video286": {
+        "url": "https://www.youtube.com/watch?v=3X3JVxsg5cY",
+        "title": "[New!] 🏃 Hide or Die 🔥 No Linkvertise! Esp All Players Hidden! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HideorDie'))()"
+    },
+    "video285": {
+        "url": "https://www.youtube.com/watch?v=o33CN_vHqac",
+        "title": "[Epic! ⚔️] Blade Ball 🔥 No Linkvertise! Auto Parry / IA Options! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Alexisisback/Universall/refs/heads/main/Blade%20ball.lua'))() "
+    },
+    "video284": {
+        "url": "https://www.youtube.com/watch?v=Je36AztcIRI",
+        "title": "[Best! 🎲] Sol's RNG 🔥 No Linkvertise! Auto Roll / Auto Use! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/LHking123456/n4dgW8TF7rNyL/refs/heads/main/Sols'))()"
+    },
     "video283": {
         "url": "https://www.youtube.com/watch?v=RGdsmHaxfDw",
         "title": "[Best! 🎮] Free Gamepass 🔥 No Linkvertise! Free UGC / Gamepass / Products!! 🔥 PC & Mobile! (2024)",
