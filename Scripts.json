@@ -1,4 +1,19 @@
 {
+    "video293": {
+        "url": "https://www.youtube.com/watch?v=ubV7ezWaXBE",
+        "title": "[New!] 🎴 Anime Reborn 🔥 No Linkvertise! Auto Upgrade / Macro / Save Options! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/alan11ago/Hub/refs/heads/main/ImpHub.lua'))()"
+    },
+    "video292": {
+        "url": "https://www.youtube.com/watch?v=hKMDftoBM30",
+        "title": "[OP!] 🛡️ God Mode 🔥 No Linkvertise! Immortal / INF Life!! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/zephyr10101/ignore-touchinterests/main/main',true))()"
+    },
+    "video291": {
+        "url": "https://www.youtube.com/watch?v=nbgfJjrXK-s",
+        "title": "[Best!] 🌎 Eat The World 🔥 No Linkvertise! Auto Eat / Auto Sell / and MORE! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Prosexy/Demonic-HUB-V2/main/DemonicHub_V2.lua', true))()"
+    },
     "video290": {
         "url": "https://www.youtube.com/watch?v=oePiSEjaJOs",
         "title": "[LDS HUB! 🥇] Car Dealership Tycoon 🔥 No Linkvertise! Monster Jam Event!! 🔥 PC & Mobile! (2024)",
