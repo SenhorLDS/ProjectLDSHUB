@@ -1,4 +1,19 @@
 {
+    "video296": {
+        "url": "https://www.youtube.com/watch?v=L9lq-VSXnBA",
+        "title": "[LDS HUB!] 💪 Arm Wrestle Simulator 🔥 No Linkvertise! Classic Event Update! 🔥 PC & Mobile! (2024)",
+            "script": ""
+    },
+    "video295": {
+        "url": "https://www.youtube.com/watch?v=EzvaSzKw9oQ",
+        "title": "[Best!] 🏋️ Lifting Simulator 🔥 No Linkvertise! Auto Farm! Auto Buy! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet(('https://pastebin.com/raw/zQ9zFW0f'),true))()"
+    },
+    "video294": {
+        "url": "https://www.youtube.com/watch?v=qibGPiZxHvA",
+        "title": "[Hub!] 🤖 Be NPC or Die 🔥 No Linkvertise! Bypass! / ESP all players!! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/vateq/CandyHub/refs/heads/main/Loader.lua'))()"
+    },
     "video293": {
         "url": "https://www.youtube.com/watch?v=ubV7ezWaXBE",
         "title": "[New!] 🎴 Anime Reborn 🔥 No Linkvertise! Auto Upgrade / Macro / Save Options! 🔥 PC & Mobile! (2024)",
