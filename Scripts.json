@@ -1,4 +1,19 @@
 {
+    "video299": {
+        "url": "https://www.youtube.com/watch?v=arRVvnOkzb8",
+        "title": "[Hub!] 🏰 Pixel Prisons 🔥 No Linkvertise! Auto Mining Aura! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ProjectpopCat/ywxoscripts/refs/heads/main/PixelPrisons.lua'))()"
+    },
+    "video298": {
+        "url": "https://www.youtube.com/watch?v=fFZ21l_PWog",
+        "title": "[FE!] 🏙️ Brookhaven 🔥 No Linkvertise! Fling! / Chat Bypass / Multi Hub 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/kigredns/SanderXV4.2.2/refs/heads/main/NormalSS.lua'))()"
+    },
+    "video297": {
+        "url": "https://www.youtube.com/watch?v=mGyEOItSllM",
+        "title": "[Best] 🌪️ Anime Shadow 🔥 No Linkvertise! Auto Boss / Auto Buy! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua'))()"
+    },
     "video296": {
         "url": "https://www.youtube.com/watch?v=L9lq-VSXnBA",
         "title": "[LDS HUB!] 💪 Arm Wrestle Simulator 🔥 No Linkvertise! Classic Event Update! 🔥 PC & Mobile! (2024)",
