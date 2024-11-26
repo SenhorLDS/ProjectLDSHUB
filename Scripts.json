@@ -1,4 +1,19 @@
 {
+    "video302": {
+        "url": "https://www.youtube.com/watch?v=2LvhM_tQ89Q",
+        "title": "[Hub] 🌟 Stairs to Heaven 🔥 No Linkvertise! Auto Block / Auto Boss / Teleport! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/StairsToHeaven'))()"
+    },
+    "video301": {
+        "url": "https://www.youtube.com/watch?v=CvMN69r3JKE",
+        "title": "[Best] ⚡ Ninja Legends 🔥 No Linkvertise! Auto Farm / Auto Sell / OP! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/arlists/Sky-Hub/main/Main', true))()"
+    },
+    "video300": {
+        "url": "https://www.youtube.com/watch?v=TR-JndgSdDI",
+        "title": "[Best] 🦸‍♂️ Super Hero Tycoon 💥 No Linkvertise! Auto Money! 💥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://paste.ee/r/0ccCC', true))(); loadstring(game:HttpGet('https://raw.githubusercontent.com/MinionRoblox/SUPER-HERO-TYCOON/main/Scripts%20from%20Minion'))()"
+    },
     "video299": {
         "url": "https://www.youtube.com/watch?v=arRVvnOkzb8",
         "title": "[Hub!] 🏰 Pixel Prisons 🔥 No Linkvertise! Auto Mining Aura! 🔥 PC & Mobile! (2024)",
