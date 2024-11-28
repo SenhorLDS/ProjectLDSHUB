@@ -1,4 +1,9 @@
 {
+    "video303": {
+        "url": "https://www.youtube.com/watch?v=CNOnOYJWaG8",
+        "title": "[New!] 🗿 Booga Booga 🔥 No Linkvertise! Auto Farms / ESP / Auto Collect 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/boogauser3533/natsuloader/main/SlideursHub-Loader.lua'))()"
+    },
     "video302": {
         "url": "https://www.youtube.com/watch?v=2LvhM_tQ89Q",
         "title": "[Hub] 🌟 Stairs to Heaven 🔥 No Linkvertise! Auto Block / Auto Boss / Teleport! 🔥 PC & Mobile! (2024)",
