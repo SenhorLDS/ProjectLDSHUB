@@ -1,0 +1,17 @@
+if game.PlaceId == 654732683 then
+	loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/db2ce419bb3f1ea49c06b496dc064679.lua"))()
+elseif game.PlaceId == 13127800756 then
+	loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/31102eca0ff0587c4fb5f4442321ba52.lua"))()
+elseif game.PlaceId == 1962086868 then
+	loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/7d6c761975da8e96d0df86ddab92aece.lua"))()
+elseif game.PlaceId == 17698307509 then
+	loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/a6581131f87046a5a851e94d8d614fdb.lua"))()
+elseif game.PlaceId == 1554960397 then
+	loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/b217eb3527165dc69c9c66a46bba04cd.lua"))()
+elseif game.PlaceId == 18901165922 then
+	loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/5a18b34197fc9a81cfc49129d242ffb3.lua"))()
+elseif game.PlaceId == 192800 then
+	loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/92ea78dd0d028a0608d28bad65a1b5fe.lua"))()
+else
+	print("Error 212 | LDS HUB does not support this game!")
+end
