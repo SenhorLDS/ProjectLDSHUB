@@ -1,4 +1,29 @@
 {
+    "video310": {
+        "url": "https://www.youtube.com/watch?v=dRxifxwlK2I",
+        "title": "[New!] 🏆 Rivals 🔥 No Linkvertise! Aim Bot / ESP / Teleport to Enemy! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/LHking123456/ct4gFewpLxRHJ/refs/heads/main/BLRivals'))()"
+    },
+    "video309": {
+        "url": "https://www.youtube.com/watch?v=L4pHBMrJWJc",
+        "title": "[Best!] ⚽ Blue Lock: Rivals 🔥 No Linkvertise! Auto Shot / Auto Defense 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/LHking123456/ct4gFewpLxRHJ/refs/heads/main/BLRivals'))()"
+    },
+    "video308": {
+        "url": "https://www.youtube.com/watch?v=HoogxWahTi0",
+        "title": "[New!] 🏰 Dungeon Quest 🔥 No Linkvertise! God Mode / Auto Kill 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()"
+    },
+    "video307": {
+        "url": "https://www.youtube.com/watch?v=gaZS1CFID1U",
+        "title": "[New!] 🏠 Horrific Housing 🔥 No Linkvertise! Fling Players / Troll Options 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://rawscripts.net/raw/Horrific-Housing-Hosuing-hub-16738'))()"
+    },
+    "video306": {
+        "url": "https://www.youtube.com/watch?v=5qf_HjVZZCk",
+        "title": "[New!] 🎣 Go Fishing 🔥 No Linkvertise! Auto Fish / Auto Sell 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/vateq/CandyHub/refs/heads/main/Loader.lua'))()"
+    },
     "video305": {
         "url": "https://www.youtube.com/watch?v=az-cKUf09GE",
         "title": "[LDS HUB!] 🎅 Arm Wrestle Simulator 🔥 No Linkvertise! Christmas Event Update! 🔥 PC & Mobile! (2024)",
