@@ -1,4 +1,24 @@
 {
+    "video314": {
+        "url": "https://www.youtube.com/watch?v=h2ns8off3xQ",
+        "title": "[New!] 🎉 3008 🔥 No Linkvertise! ESP Item / Fly / No Clip 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet'https://raw.githubusercontent.com/Yumiara/Python/refs/heads/main/SCP3008.py')()"
+    },
+    "video313": {
+        "url": "https://www.youtube.com/watch?v=2wlD20wJXrw",
+        "title": "[Hub!] 🌲 Lumber Tycoon 2 🔥 No Linkvertise! Auto Cut / Modded Wood / Dupe Option🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/frencaliber/LuaWareLoader.lw/main/luawareloader.wtf',true))()"
+    },
+    "video312": {
+        "url": "https://www.youtube.com/watch?v=yU89b0L8DY0",
+        "title": "[Best!] 🔫 Gunfight Arena 🔥 No Linkvertise! Bring Players / Safe script! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://rawscripts.net/raw/Gunfight-Arena-or-NEW-MODE-Rocket-Hub-20236'))()"
+    },
+    "video311": {
+        "url": "https://www.youtube.com/watch?v=pNJQ7GTgRTM",
+        "title": "[Best!] 🍇 Blox Fruits 🔥 No Linkvertise! Auto Farms Op! No Key! 🔥 PC & Mobile! (2024)",
+            "script": "_G.Mode = 'Eng' loadstring(game:HttpGet('https://raw.githubusercontent.com/AAwful/VectorHub/main/Loader.lua'))()"
+    },
     "video310": {
         "url": "https://www.youtube.com/watch?v=dRxifxwlK2I",
         "title": "[New!] 🏆 Rivals 🔥 No Linkvertise! Aim Bot / ESP / Teleport to Enemy! 🔥 PC & Mobile! (2024)",
