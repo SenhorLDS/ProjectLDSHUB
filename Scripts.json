@@ -1,4 +1,29 @@
 {
+    "video319": {
+        "url": "https://www.youtube.com/watch?v=LCNrvr9bJMg",
+        "title": "[Hub!] 🍔 Restaurant Tycoon 2 🔥 No Linkvertise! Auto Farm / Fast Money! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/iz037/Zeld-Hub/main/Script/Restaurant%20Tycoon%202.lua'))()"
+    },
+    "video318": {
+        "url": "https://www.youtube.com/watch?v=6j9W7HWEnpg",
+        "title": "[Best!] 💰 PLS Donate 🔥 No Linkvertise! Free Robux! Steal!🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/CF-Trail/tzechco-PlsDonateAutofarmBackup/main/old.lua'))()"
+    },
+    "video317": {
+        "url": "https://www.youtube.com/watch?v=tNWTrEteW8s",
+        "title": "[New!] 💪 Muscle Legends 🔥 No Linkvertise! Auto Rep AFK! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/StupidProAArsenal/main/main/Musclas%20Legenos.lua'))()"
+    },
+    "video316": {
+        "url": "https://www.youtube.com/watch?v=qENep5V87SM",
+        "title": "[New!] 🎣 Fisch 🔥 No Linkvertise! Auto Fish / Dupe 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua', true))()"
+    },
+    "video315": {
+        "url": "https://www.youtube.com/watch?v=BqExSNHUp6o",
+        "title": "[Hub!] 🏡 Ultimate Home Tycoon 🔥 No Linkvertise! Auto Build / FREE Gamepass 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet(('https://pastefy.app/MApFyXkv/raw'),true))()"
+    },
     "video314": {
         "url": "https://www.youtube.com/watch?v=h2ns8off3xQ",
         "title": "[New!] 🎉 3008 🔥 No Linkvertise! ESP Item / Fly / No Clip 🔥 PC & Mobile! (2024)",
