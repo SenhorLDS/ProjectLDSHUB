@@ -1,4 +1,9 @@
 {
+    "video320": {
+        "url": "https://www.youtube.com/watch?v=PLFXbTC97GE",
+        "title": "[Hub!] ⚔️ Blade Ball 🔥 No Linkvertise! Best Auto Parry! Winter Update 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Fsploit/Frostware/refs/heads/main/F-R-O-S-T-W-A-R-E%20BY%20FSPLOIT-BLADE%20BALL.lua'))()"
+    },
     "video319": {
         "url": "https://www.youtube.com/watch?v=LCNrvr9bJMg",
         "title": "[Hub!] 🍔 Restaurant Tycoon 2 🔥 No Linkvertise! Auto Farm / Fast Money! 🔥 PC & Mobile! (2024)",
