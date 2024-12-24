@@ -2,7 +2,7 @@
     "video327": {
         "url": "",
         "title": "[New!] 🎵 Funky Friday 🔥 No Linkvertise! Auto Play 🔥 PC & Mobile! (2024)",
-            "loadstring(game:HttpGet('https://pastebin.com/raw/dcyuEgyK'))()"
+           "script": "loadstring(game:HttpGet('https://pastebin.com/raw/dcyuEgyK'))()"
     },
     "video326": {
         "url": "",
