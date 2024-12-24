@@ -1,4 +1,9 @@
 {
+    "video326": {
+        "url": "",
+        "title": "[Hub] ❄️ Snow Plow Simulator 🔥 No Linkvertise! Auto get Snow / Auto Farm🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/IIIllllIIIIIllllllI/SnowPlowSimulator/refs/heads/main/main.lua'))()"
+    },
     "video325": {
         "url": "",
         "title": "[Best] 🖐️ Slap Battles 🔥 No Linkvertise! Auto Kill / Reach 🔥 PC & Mobile! (2024)",
