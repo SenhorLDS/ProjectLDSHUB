@@ -1,4 +1,24 @@
 {
+    "video331": {
+        "url": "",
+        "title": "[New!] 🌍 World Zero 🔥 No Linkvertise! Kill Near Mobs  🔥 PC & Mobile! (2024)",
+           "script": "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/fda523d8de77cd09a853c1459bc43952.lua'))()"
+    },
+    "video330": {
+        "url": "",
+        "title": "[Epic!] 🧟 Zombie Attack 🔥 No Linkvertise! INF Ammo / Aim bot 🔥 PC & Mobile! (2024)",
+           "script": "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/9e67d1df9c4d2abd8952868f0a04ea9e.lua'))()"
+    },
+    "video329": {
+        "url": "",
+        "title": "[Best!] 🎄 Driving Empire 🔥 No Linkvertise! Xmas Event / Update 🔥 PC & Mobile! (2024)",
+           "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/DrivingEmpireWinter'))()"
+    },
+    "video328": {
+        "url": "",
+        "title": "[New!] 💰 Lootify 🔥 No Linkvertise! Auto attack  / Auto roll 🔥 PC & Mobile! (2024)",
+           "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/IAmJamal10/Loot/refs/heads/main/Ify'))()"
+    },
     "video327": {
         "url": "",
         "title": "[New!] 🎵 Funky Friday 🔥 No Linkvertise! Auto Play 🔥 PC & Mobile! (2024)",
