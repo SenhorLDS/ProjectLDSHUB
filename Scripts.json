@@ -1,51 +1,66 @@
 {
+    "video334": {
+        "url": "https://www.youtube.com/watch?v=d7i46XolHc0",
+        "title": "[LDS HUB! 🤖] Be NPC or DIE! 🔥 No Linkvertise! ESP / Auto Task / Kill Players! 🔥 PC & Mobile! (2025)",
+           "script": ""
+    },
+    "video333": {
+        "url": "https://www.youtube.com/watch?v=I_w0HP5r9YE",
+        "title": "[Best! 🐔] Adopt Me! 🔥 No Linkvertise! Auto Event XMAS! 🔥 PC & Mobile! (2025)",
+           "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/AdoptMeWINTER'))()"
+    },
+    "video332": {
+        "url": "https://www.youtube.com/watch?v=rODehx61Z8E",
+        "title": "[New! 🌌] YBA 🔥 No Linkvertise! Op AUTO Farm! 🔥 PC & Mobile! (2025)",
+           "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Tobias020108Back/YBA-AUT/main/YBA-GUI-Rewrite.lua'))()"
+    },
     "video331": {
-        "url": "",
+        "url": "https://www.youtube.com/watch?v=9y089plUNfE",
         "title": "[New!] 🌍 World Zero 🔥 No Linkvertise! Kill Near Mobs  🔥 PC & Mobile! (2024)",
            "script": "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/fda523d8de77cd09a853c1459bc43952.lua'))()"
     },
     "video330": {
-        "url": "",
+        "url": "https://www.youtube.com/watch?v=l8s3d0KnBv4",
         "title": "[Epic!] 🧟 Zombie Attack 🔥 No Linkvertise! INF Ammo / Aim bot 🔥 PC & Mobile! (2024)",
            "script": "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/9e67d1df9c4d2abd8952868f0a04ea9e.lua'))()"
     },
     "video329": {
-        "url": "",
+        "url": "https://www.youtube.com/watch?v=wNf7AkOcPnc",
         "title": "[Best!] 🎄 Driving Empire 🔥 No Linkvertise! Xmas Event / Update 🔥 PC & Mobile! (2024)",
            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/DrivingEmpireWinter'))()"
     },
     "video328": {
-        "url": "",
+        "url": "https://www.youtube.com/watch?v=Bd2focdaTSg",
         "title": "[New!] 💰 Lootify 🔥 No Linkvertise! Auto attack  / Auto roll 🔥 PC & Mobile! (2024)",
            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/IAmJamal10/Loot/refs/heads/main/Ify'))()"
     },
     "video327": {
-        "url": "",
+        "url": "https://www.youtube.com/watch?v=lF-vE8fWzTs",
         "title": "[New!] 🎵 Funky Friday 🔥 No Linkvertise! Auto Play 🔥 PC & Mobile! (2024)",
            "script": "loadstring(game:HttpGet('https://pastebin.com/raw/dcyuEgyK'))()"
     },
     "video326": {
-        "url": "",
+        "url": "https://www.youtube.com/watch?v=XxBy3tqlMHE",
         "title": "[Hub] ❄️ Snow Plow Simulator 🔥 No Linkvertise! Auto get Snow / Auto Farm🔥 PC & Mobile! (2024)",
             "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/IIIllllIIIIIllllllI/SnowPlowSimulator/refs/heads/main/main.lua'))()"
     },
     "video325": {
-        "url": "",
+        "url": "https://www.youtube.com/watch?v=rj2fXRdU2L4",
         "title": "[Best] 🖐️ Slap Battles 🔥 No Linkvertise! Auto Kill / Reach 🔥 PC & Mobile! (2024)",
             "script": "loadstring(game:HttpGet('https://rawscripts.net/raw/Slap-Battles-KykyryzoB-Hub-SB-9008'))()"
     },
     "video324": {
-        "url": "",
+        "url": "https://www.youtube.com/watch?v=TY4_OQynv6c",
         "title": "[New!] 🛡️ War Tycoon 🔥 No Linkvertise! Auto Build! Op Options🔥 PC & Mobile! (2024)",
             "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/MariyaFurmanova/Library/main/WarTycoon', true))()"
     },
     "video323": {
-        "url": "",
+        "url": "https://www.youtube.com/watch?v=NX7mV1DiFmU",
         "title": "[New!] 👑 King Legacy 🔥 No Linkvertise! Auto quest / Auto Boss 🔥 PC & Mobile! (2024)",
             "script": "loadstring(game:HttpGet('https://rawscripts.net/raw/(UPDATE-5)-King-Legacy-BLACKTRAP-11802'))()"
     },
     "video322": {
-        "url": "",
+        "url": "https://www.youtube.com/watch?v=UX8F9qtvcow",
         "title": "[New!] 🔪 Murder Mystery 2 🔥 No Linkvertise! Xmas Event Update! 🔥 PC & Mobile! (2024)",
             "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/vertex-peak/vertex/refs/heads/main/loadstring'))()"
     },
