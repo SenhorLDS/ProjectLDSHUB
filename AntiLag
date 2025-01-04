@@ -1,0 +1,117 @@
+local function UltraMaxFPSBooster()
+	local gameService = game
+	local players = gameService:GetService("Players")
+	local localPlayer = players.LocalPlayer
+	local lighting = gameService:GetService("Lighting")
+	local terrain = gameService:GetService("Workspace"):FindFirstChildOfClass("Terrain")
+	local StarterGui = gameService:GetService("StarterGui")
+	local runService = gameService:GetService("RunService")
+	local vim = gameService:GetService("VirtualInputManager")
+	local networkSettings = settings()
+
+	local function optimizeObject(object)
+		if object:IsA("Texture") or object:IsA("ParticleEmitter") or 
+			object:IsA("Trail") or object:IsA("Beam") or object:IsA("Light") then
+			object:Destroy()
+		elseif object:IsA("BasePart") then
+			object.Material = Enum.Material.SmoothPlastic
+			object.Reflectance = 0
+			object.CastShadow = false
+			object.Transparency = math.min(object.Transparency, 1)
+		elseif object:IsA("MeshPart") then
+			object.RenderFidelity = Enum.RenderFidelity.Performance
+			object.CastShadow = false
+		elseif object:IsA("SpecialMesh") or object:IsA("UnionOperation") then
+			object:Destroy()
+		elseif object:IsA("Sound") or object:IsA("VideoFrame") then
+			object:Destroy()
+		elseif object:IsA("Model") and object.PrimaryPart then
+			object.PrimaryPart.CastShadow = false
+		end
+	end
+
+	local function optimizeNetwork()
+		networkSettings.Network.IncomingReplicationLag = 25
+	end
+
+	local function optimizePhysicsAndLights()
+		for _, part in pairs(gameService:GetDescendants()) do
+			if part:IsA("BasePart") then
+				part.AssemblyLinearVelocity = Vector3.new()
+				part.AssemblyAngularVelocity = Vector3.new()
+				part.CustomPhysicalProperties = PhysicalProperties.new(0, 0, 0)
+			end
+		end
+
+		for _, light in pairs(gameService:GetDescendants()) do
+			if light:IsA("Light") then
+				light.Enabled = false
+			end
+		end
+	end
+
+	local function optimizeSound()
+		for _, sound in pairs(gameService:GetDescendants()) do
+			if sound:IsA("Sound") then
+				sound:Destroy()
+			end
+		end
+	end
+
+	local function optimizeTimeSimulation()
+		settings().Rendering.QualityLevel = Enum.QualityLevel.Level01
+		settings().Network.IncomingReplicationLag = 20
+	end
+
+	local function disableCharacterPhysics()
+		if localPlayer.Character then
+			local humanoid = localPlayer.Character:FindFirstChildOfClass("Humanoid")
+			if humanoid then
+				humanoid.PlatformStand = true
+				humanoid:ChangeState(Enum.HumanoidStateType.Physics)
+			end
+		end
+	end
+
+	game:GetService("RunService"):Set3dRenderingEnabled(false)
+
+	for _, object in pairs(gameService:GetDescendants()) do
+		pcall(function() optimizeObject(object) end)
+	end
+
+	optimizeNetwork()
+	optimizeSound()
+	optimizePhysicsAndLights()
+	optimizeTimeSimulation()
+
+	localPlayer.CameraMaxZoomDistance = 50
+	localPlayer.CameraMinZoomDistance = 10	
+
+	for _, gui in pairs(localPlayer.PlayerGui:GetChildren()) do
+		if gui:IsA("ScreenGui") then
+			gui.Enabled = false
+		end
+	end
+
+	vim:SendKeyEvent(true, "F9", 0, game)
+	game.DescendantAdded:Connect(function(d)
+		if d.Name == "MainView" and d.Parent.Name == "DevConsoleUI" then
+			task.wait()
+			local screen = d.Parent.Parent.Parent
+			screen.Enabled = false
+			d.Visible = false
+		end
+	end)
+	vim:SendKeyEvent(false, "F9", 0, game)
+
+	StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.All, false)
+
+	runService.Heartbeat:Connect(function()
+		optimizeNetwork()
+		optimizeSound()
+		optimizePhysicsAndLights()
+		setfpscap(20)
+	end)
+end
+
+UltraMaxFPSBooster()
