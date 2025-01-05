@@ -1,4 +1,9 @@
 {
+    "video337": {
+        "url": "https://www.youtube.com/watch?v=_y1lmOVPQ8E",
+        "title": "[Hub! 🌍] Dandy's World 🔥 No Linkvertise! Speed Hack / ESP! 🔥 PC & Mobile! (2025)",
+           "script": "loadstring(game:HttpGet('https://rawscripts.net/raw/Dandy's-World-ALPHA-OP-script-16354'))()"
+    },
     "video336": {
         "url": "https://www.youtube.com/watch?v=7SJCHPAv-Pk",
         "title": "[LDS HUB!] 👮‍♀️ Arm Wrestle Simulator 🔥 No Linkvertise! Prison Event Update! 🔥 PC & Mobile! (2024)",
