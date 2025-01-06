@@ -1,4 +1,14 @@
 {
+    "video339": {
+        "url": "https://www.youtube.com/watch?v=ZdgWnnnaeFY",
+        "title": "[New! 🎯] Arsenal 🔥 No Linkvertise! Aim Bot! And More 🔥 PC & Mobile! (2025)",
+           "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Nickyangtpe/Vapa-v2/refs/heads/main/Vapav2-Arsenal.lua', true))()"
+    },
+    "video338": {
+        "url": "https://www.youtube.com/watch?v=QfFQL1qB0MM",
+        "title": "[Best! 🏋️‍♂️] Gym League 🔥 No Linkvertise! Auto Train / Best Script 🔥 PC & Mobile! (2025)",
+           "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Gym%20League.lua'))()"
+    },
     "video337": {
         "url": "https://www.youtube.com/watch?v=_y1lmOVPQ8E",
         "title": "[Hub! 🌍] Dandy's World 🔥 No Linkvertise! Speed Hack / ESP! 🔥 PC & Mobile! (2025)",
