@@ -20,7 +20,7 @@
            "script": ""
     },
     "video335": {
-        "url": "https://www.youtube.com/watch?v=P2O9gbDY8gA&t",
+        "url": "https://www.youtube.com/watch?v=P2O9gbDY8gA",
         "title": "[New! 🎨] Color or Die 🔥 No Linkvertise! Auto Get Color 🔥 PC & Mobile! (2025)",
            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/ColororDie'))()"
     },
