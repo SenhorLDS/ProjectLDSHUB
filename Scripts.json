@@ -1,4 +1,9 @@
 {
+    "video340": {
+        "url": "https://www.youtube.com/watch?v=gRVrG-DvBEw",
+        "title": "[Update! ⚔️] Anime Last Stand 🔥 No Linkvertise! Auto Upgrade / Macro! 🔥 PC & Mobile! (2025)",
+           "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/alan11ago/Hub/refs/heads/main/ImpHub.lua'))()"
+    },
     "video339": {
         "url": "https://www.youtube.com/watch?v=ZdgWnnnaeFY",
         "title": "[New! 🎯] Arsenal 🔥 No Linkvertise! Aim Bot! And More 🔥 PC & Mobile! (2025)",
