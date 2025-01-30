@@ -1,4 +1,14 @@
 {
+    "video346": {
+        "url": "https://www.youtube.com/watch?v=4aMwt5U3V3k",
+        "title": "[Best! 🍎] One Fruit 🔥 No Linkvertise! Auto Raid / Auto Farm 🔥 PC & Mobile! (2025)",
+               "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/CrazyHub123/NexusHubRevival/refs/heads/main/Main.lua', true))()"
+    },
+    "video345": {
+        "url": "https://www.youtube.com/watch?v=JQBb4ohDjDA",
+        "title": "[Update! ⚽] Blue Lock: Rivals 🔥 No Linkvertise! Auto Shot / Inf Stamina 🔥 PC & Mobile! (2025)",
+               "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua'))()"
+    },
     "video344": {
         "url": "https://www.youtube.com/watch?v=I2q6VFA3Zno",
         "title": "[LDS HUB 💎] Car Crushers 2 🔥 No Linkvertise! Modifiers Options! / Best HUB! 🔥 PC & Mobile! (2025)",
