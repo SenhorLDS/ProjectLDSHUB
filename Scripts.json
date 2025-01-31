@@ -1,4 +1,9 @@
 {
+    "video348": {
+        "url": "https://www.youtube.com/watch?v=iYUs1cJjGUw",
+        "title": "[Best! 🥊] Punch Monsters 🔥 No Linkvertise! Auto Train / Auto Win 🔥 PC & Mobile! (2025)",
+               "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Moligrafi001/Hallow-Hub/main/Loader.lua',true))()"
+    },
     "video347": {
         "url": "https://www.youtube.com/watch?v=SGnQzTmf8ts",
         "title": "[Update! 💪] Muscle Legends 🔥 No Linkvertise! Auto Lift / Auto Kill 🔥 PC & Mobile! (2025)",
