@@ -1,4 +1,9 @@
 {
+    "video350": {
+        "url": "https://www.youtube.com/watch?v=aGlRWR1PQCM",
+        "title": "[New! 🏐] Haikyuu Legends 🔥 No Linkvertise! Auto Play / Size Ball and More! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/IAmJamal10/Scripts/refs/heads/main/Legend'))()"
+    },
     "video349": {
         "url": "https://www.youtube.com/watch?v=_wLFzKeN7dU",
         "title": "[LDS HUB!] 👀 Arm Wrestle Simulator 🔥 No Linkvertise! Ninja Update Dragon! 🔥 PC & Mobile! (2025)",
