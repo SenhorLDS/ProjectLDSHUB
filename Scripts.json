@@ -1,4 +1,9 @@
 {
+    "video352": {
+        "url": "https://www.youtube.com/watch?v=2-YUM3KaXFo",
+        "title": "[New! 🏃‍♂️] Evade 🔥 No Linkvertise! ESP / Speed Player / And More! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://rawscripts.net/raw/Evade-Evade-The-Best-Free-GUI-Script-lots-of-Features-20718'))()"
+    },
     "video351": {
         "url": "https://www.youtube.com/watch?v=UZxQQc5H9-8",
         "title": "[OP! ⚔️] Combat Warriors 🔥 No Linkvertise! OP Auto Kill 🔥 PC & Mobile! (2025)",
