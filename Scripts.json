@@ -1,4 +1,9 @@
 {
+    "video357": {
+        "url": "https://www.youtube.com/watch?v=OEm8orlBk9g",
+        "title": "[OP! 🏴‍☠️] Blox Fruits 🔥 No Linkvertise! Auto Farm / Auto Raid! and MORE! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/3345-c-a-t-s-u-s/Kncrypt/refs/heads/main/Loader.lua'))()"
+    },
     "video356": {
         "url": "https://www.youtube.com/watch?v=MaXB6pbAIqk",
         "title": "[New! 🎭] FE Animations Hub 🔥 No Linkvertise! Working in ALL Games! 🔥 PC & Mobile! (2025)",
