@@ -1,4 +1,9 @@
 {
+    "video359": {
+        "url": "https://www.youtube.com/watch?v=OJfXW3NS39Q",
+        "title": "[Best! ⛏️] Dig It 🔥 No Linkvertise! Auto Dig / Auto Sell / Inventory Options! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/CupPink/scripts/main/Loader.lua'))()"
+    },
     "video358": {
         "url": "https://www.youtube.com/watch?v=3J8UWBKsI3Q",
         "title": "[Update! 💀] Dead Rails 🔥 No Linkvertise! Bring Itens / Gold / Armor and More! 🔥 PC & Mobile! (2025)",
