@@ -1,4 +1,14 @@
 {
+    "video361": {
+        "url": "https://www.youtube.com/watch?v=_QLnMwLTpOI",
+        "title": "[Update! 🎥] Youtuber Tycoon 🔥 No Linkvertise! INF Money! Auto Buy! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/YoutuberTycoon.lua'))()"
+    },
+    "video360": {
+        "url": "https://www.youtube.com/watch?v=aGl-c6ihKYE",
+        "title": "[New! 🏜️] Desert Detectors 🔥 No Linkvertise! INF Money! / No GUI! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://pastebin.com/raw/hupk6VN0'))()"
+    },
     "video359": {
         "url": "https://www.youtube.com/watch?v=OJfXW3NS39Q",
         "title": "[Best! ⛏️] Dig It 🔥 No Linkvertise! Auto Dig / Auto Sell / Inventory Options! 🔥 PC & Mobile! (2025)",
