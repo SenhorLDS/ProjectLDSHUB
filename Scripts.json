@@ -1,4 +1,9 @@
 {
+    "video364": {
+        "url": "https://www.youtube.com/watch?v=ves5LplbdEU",
+        "title": "[Update! 🍎] Capybara Evolution 🔥 No Linkvertise! Auto Farm! / Best Egg! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/CapybaraEvolution'))()"
+    },
     "video363": {
         "url": "https://www.youtube.com/watch?v=iBloVc-g45w",
         "title": "[New! ⛏️] Pet Mine! 🔥 No Linkvertise! Auto Mine! / Auto Egg! 🔥 PC & Mobile! (2025)",
