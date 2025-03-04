@@ -1,4 +1,9 @@
 {
+    "video365": {
+        "url": "https://youtu.be/ElFNd9zCIaE?si=wbGrvpmR8sNwbENl",
+        "title": "[New! 🏫] Fight in a School 🔥 No Linkvertise! Auto Fight / Kill in Void 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/notjohnnylol/Azure/refs/heads/main/ScriptFIAS'))()"
+    },
     "video364": {
         "url": "https://www.youtube.com/watch?v=ves5LplbdEU",
         "title": "[Update! 🍎] Capybara Evolution 🔥 No Linkvertise! Auto Farm! / Best Egg! 🔥 PC & Mobile! (2025)",
