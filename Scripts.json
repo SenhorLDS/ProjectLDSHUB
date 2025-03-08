@@ -1,16 +1,21 @@
 {
+    "video368": {
+        "url": "https://www.youtube.com/watch?v=oGnOtIOBbz8",
+        "title": "[LDS HUB! ⛏️] Drill Digging Simulator 🔥 No Linkvertise! INF MONEY! / INF Wins! 🔥 PC & Mobile! (2025)",
+                "script": ""
+    },
     "video367": {
-        "url": "https://youtu.be/_4kpY2oUZec?si=URibJDevgtsqPqzu",
+        "url": "https://www.youtube.com/watch?v=IB1JDGEKMyY",
         "title": "[Update! 🚂] Dead Rails 🔥 No Linkvertise! ESP Item / Auto Collect / Aim Bot🔥 PC & Mobile! (2025)",
                 "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua', true))()"
     },
     "video366": {
-        "url": "https://youtu.be/_4kpY2oUZec?si=URibJDevgtsqPqzu",
+        "url": "https://www.youtube.com/watch?v=_4kpY2oUZec",
         "title": "[Best! 🔱] Trident Survival 🔥 No Linkvertise! ESP / Aim Bot / Auto Kill 🔥 PC & Mobile! (2025)",
                 "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/PUSCRIPTS/PINGUIN/refs/heads/main/PinguinHub'))()"
     },
     "video365": {
-        "url": "https://youtu.be/ElFNd9zCIaE?si=wbGrvpmR8sNwbENl",
+        "url": "https://www.youtube.com/watch?v=ElFNd9zCIaE",
         "title": "[New! 🏫] Fight in a School 🔥 No Linkvertise! Auto Fight / Kill in Void 🔥 PC & Mobile! (2025)",
                 "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/notjohnnylol/Azure/refs/heads/main/ScriptFIAS'))()"
     },
