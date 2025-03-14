@@ -1,4 +1,9 @@
 {
+    "video372": {
+        "url": "https://www.youtube.com/watch?v=3TMo8QqkPFE",
+        "title": "[Update! 🤖] Robot Evolution 🔥 No Linkvertise! Fast Attack / Auto Mob! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/gumanba/Scripts/main/RobotEvolution'))()"
+    },
     "video371": {
         "url": "https://www.youtube.com/watch?v=lEKcx6IFF-4",
         "title": "[Best! 🛹] Skateboard Obby 🔥 No Linkvertise! Auto Checkpoint / Auto Restart 🔥 PC & Mobile! (2025)",
