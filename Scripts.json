@@ -1,4 +1,9 @@
 {
+    "video373": {
+        "url": "https://www.youtube.com/watch?v=FHqygaSFJYw",
+        "title": "[Best! 🕊️] Flying Wings Race Simulator 🔥 No Linkvertise! Fast Powers /Inst Fly 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/gumanba/Scripts/main/FlyingWings'))()"
+    },
     "video372": {
         "url": "https://www.youtube.com/watch?v=3TMo8QqkPFE",
         "title": "[Update! 🤖] Robot Evolution 🔥 No Linkvertise! Fast Attack / Auto Mob! 🔥 PC & Mobile! (2025)",
