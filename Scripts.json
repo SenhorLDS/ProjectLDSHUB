@@ -1,4 +1,9 @@
 {
+    "video375": {
+        "url": "https://www.youtube.com/watch?v=g1QHbLXu-5s",
+        "title": "[Best! ⚔️] Attack on Titan 🔥 No Linkvertise! Auto Quest / Auto Raid 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/zerunquist/TekkitAotr/refs/heads/main/main'))()"
+    },
     "video374": {
         "url": "https://www.youtube.com/watch?v=8J4B5llFlvU",
         "title": "[LDS HUB! 💪] Arm Wrestle Simulator 🔥 No Linkvertise! Hero Event / Auto NPC! 🔥 PC & Mobile! (2025)",
