@@ -1,4 +1,9 @@
 {
+    "video382": {
+        "url": "https://www.youtube.com/watch?v=PGm0BZdNzvg",
+        "title": "[OP! 🚪] Doors 🔥 No Linkvertise! Auto Farm / Esp Options 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/KINGHUB01/BlackKing-obf/main/Doors%20Blackking%20And%20BobHub'))()"
+    },
     "video381": {
         "url": "https://www.youtube.com/watch?v=CkM9zhqdNkM",
         "title": "[New! ⚔️] Arise Crossover 🔥 No Linkvertise! Auto Farm / Dungeon Options 🔥 PC & Mobile! (2025)",
