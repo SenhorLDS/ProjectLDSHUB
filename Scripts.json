@@ -1,8 +1,13 @@
 {
+    "video384": {
+        "url": "https://www.youtube.com/watch?v=OssTX_X1BgM",
+        "title": "[LDS HUB 🥶] Bubble Gum Simulator INFINITY 🔥 No Linkvertise! Auto Farms 🔥 PC & Mobile! (2025)",
+                "script": ""
+    },
     "video383": {
         "url": "https://www.youtube.com/watch?v=2uJYUpSzCvk",
         "title": "[New! 🧠] Minds Fall - Survival 🔥 No Linkvertise! Auto Story / Auto Kill Near! 🔥 PC & Mobile! (2025)",
-                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/gumanba/Scripts/main/MindsFall'))() "
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/gumanba/Scripts/main/MindsFall'))()"
     },
     "video382": {
         "url": "https://www.youtube.com/watch?v=PGm0BZdNzvg",
