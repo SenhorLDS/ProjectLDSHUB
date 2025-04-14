@@ -1,0 +1,21 @@
+local games = {
+	"Car Crushers 2",
+	"Arm Wrestle Simulator",
+	"Tower of Hell",
+	"Blade Ball",
+	"Pet Simulator 99",
+	"Be a Tornado",
+	"Car Dealership Tycoon",
+	"Pets Go",
+	"Work at a Pizza Place",
+	"Be NPC or DIE",
+	"Build a Boat For Treasure",
+	"Lucky Block Legends",
+	"Worlds Hardest Game",
+	"Eat The World",
+	"Drill Digging Simulator",
+	"Throw stuff for money",
+	"Car Training",
+	"Rebirth Champions: Ultimate",
+	"Bubble Gum Simulator INFINITY"
+}
