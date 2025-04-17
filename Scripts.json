@@ -1,4 +1,9 @@
 {
+    "video385": {
+        "url": "https://www.youtube.com/watch?v=NpTiLN6Mgso",
+        "title": "[Best 🐉] Dragon Training 🔥 No Linkvertise! Auto Train / Auto Rebirth 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/gumanba/Scripts/main/DragonTraining'))()"
+    },
     "video384": {
         "url": "https://www.youtube.com/watch?v=OssTX_X1BgM",
         "title": "[LDS HUB 🥶] Bubble Gum Simulator INFINITY 🔥 No Linkvertise! Auto Farms 🔥 PC & Mobile! (2025)",
