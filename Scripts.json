@@ -1,4 +1,9 @@
 {
+    "video386": {
+        "url": "https://www.youtube.com/watch?v=E3Uk6iL3Jcc",
+        "title": "[OP! 🚗] Driving Empire 🔥 No Linkvertise! Auto Race / Auto Farm 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://rawscripts.net/raw/NEW-BRAND-Driving-Empire-Car-Racing-AutoFarmer-and-AutoRacer-23697'))()"
+    },
     "video385": {
         "url": "https://www.youtube.com/watch?v=NpTiLN6Mgso",
         "title": "[Best 🐉] Dragon Training 🔥 No Linkvertise! Auto Train / Auto Rebirth 🔥 PC & Mobile! (2025)",
