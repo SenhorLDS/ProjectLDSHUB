@@ -1,4 +1,9 @@
 {
+    "video388": {
+        "url": "https://www.youtube.com/watch?v=CuVriU6hAHs",
+        "title": "[Hack! 💎] Dandy's World 🔥 No Linkvertise! Auto Farm / ESP Mobs and More! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://rawscripts.net/raw/Dandy's-World-ALPHA-Zyra-Hub-24675'))()"
+    },
     "video387": {
         "url": "https://www.youtube.com/watch?v=KPRrlygECFo",
         "title": "[LDS HUB! 🐰] Arm Wrestle Simulator 🔥 No Linkvertise! Easter Event!! 🔥 PC & Mobile! (2025)",
