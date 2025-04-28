@@ -1,4 +1,9 @@
 {
+    "video391": {
+        "url": "https://www.youtube.com/watch?v=g9oa31k7HRY",
+        "title": "[Hub! 🌱] Grow a Garden 🔥 No Linkvertise! Dupe Seed / Best HUB! Auto Shop! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ameicaa1/Grow-a-Garden/main/Grow_A_Garden.lua'))()"
+    },
     "video390": {
         "url": "https://www.youtube.com/watch?v=Uh96VoTOG5o",
         "title": "[Best! ⚽] Blue Lock: Rivals 🔥 No Linkvertise! TP Ball / Auto Play and MORE! 🔥 PC & Mobile! (2025)",
