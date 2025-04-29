@@ -1,4 +1,9 @@
 {
+    "video392": {
+        "url": "https://www.youtube.com/watch?v=lonCaDkIvHU",
+        "title": "[New! 🔮] Hunters 🔥 No Linkvertise! Auto Farm / Insta Kill 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/LawrenceLud/Templo/refs/heads/main/TemploLoader.lua')()"
+    },
     "video391": {
         "url": "https://www.youtube.com/watch?v=g9oa31k7HRY",
         "title": "[Hub! 🌱] Grow a Garden 🔥 No Linkvertise! Dupe Seed / Best HUB! Auto Shop! 🔥 PC & Mobile! (2025)",
