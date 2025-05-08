@@ -1,4 +1,9 @@
 {
+    "video397": {
+        "url": "https://www.youtube.com/watch?v=QzLMWvEKyP8",
+        "title": "[New! ⚔️] SkyWars 🔥 No Linkvertise! Aimbot / ESP / Auto Click! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ShadowBey01/shadowfreev2/refs/heads/main/shadowv2free'))()"
+    },
     "video396": {
         "url": "https://www.youtube.com/watch?v=rL0H8St_Zzw",
         "title": "[Hub! ⚙️] Untitled Drill Game 🔥 No Linkvertise! Auto Drill / Auto Sell🔥 PC & Mobile! (2025)",
