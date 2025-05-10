@@ -1,4 +1,9 @@
 {
+    "video398": {
+        "url": "https://www.youtube.com/watch?v=SeUXh-DpP4I",
+        "title": "[FE HUB!! 🐣] Breeding Ranch 🔥 No Linkvertise! INF MONEY! Best Egg for Free! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/gumanba/Scripts/main/Breedingranch'))()"
+    },
     "video397": {
         "url": "https://www.youtube.com/watch?v=QzLMWvEKyP8",
         "title": "[New! ⚔️] SkyWars 🔥 No Linkvertise! Aimbot / ESP / Auto Click! 🔥 PC & Mobile! (2025)",
