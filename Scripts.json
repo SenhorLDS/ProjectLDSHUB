@@ -1,4 +1,9 @@
 {
+    "video403": {
+        "url": "https://www.youtube.com/watch?v=G5rsaGTq_8E",
+        "title": "[Hub ⚔️] Sky Wars [Classic] 🔥 No Linkvertise! Kill Aura / Aim Bot / Fly!  🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ShadowBey01/risefree/refs/heads/main/risefree'))()"
+    },
     "video402": {
         "url": "https://www.youtube.com/watch?v=XBKsPLwDH14",
         "title": "[Best 🐺] Skinwalkers 🔥 No Linkvertise! Auto Shot / INF Torrets 🔥 PC & Mobile! (2025)",
