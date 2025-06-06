@@ -1,4 +1,9 @@
 {
+    "video404": {
+        "url": "https://www.youtube.com/watch?v=tFMIha7GG8Y",
+        "title": "[Update 🏝️] Build An Island! 🔥 No Linkvertise! Auto Farm / Auto Craft 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Bac0nHck/Scripts/refs/heads/main/buildanisland.lua'))()"
+    },
     "video403": {
         "url": "https://www.youtube.com/watch?v=G5rsaGTq_8E",
         "title": "[Hub ⚔️] Sky Wars [Classic] 🔥 No Linkvertise! Kill Aura / Aim Bot / Fly!  🔥 PC & Mobile! (2025)",
