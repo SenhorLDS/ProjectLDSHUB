@@ -1,4 +1,9 @@
 {
+    "video407": {
+        "url": "https://www.youtube.com/watch?v=MlYIMCleIO8",
+        "title": "[OP 💀] Noobs Must Die 🔥 No Linkvertise! Auto Kill Noobs!! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Autherium/Scripts/refs/heads/main/Noobs%20Must%20Die.lua'))()"
+    },
     "video406": {
         "url": "https://www.youtube.com/watch?v=gwugyuTK7BE",
         "title": "[New! 🎯] Arsenal 🔥 No Linkvertise! Gun Modded /AimBot 🔥 PC & Mobile! (2025)",
