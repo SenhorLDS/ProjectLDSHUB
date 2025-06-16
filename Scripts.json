@@ -1,4 +1,9 @@
 {
+    "video408": {
+        "url": "https://www.youtube.com/watch?v=8_aZQ8o5q8I",
+        "title": "[Hub 🐾] raise a floppa 2 🔥 No Linkvertise! Auto Pet / Auto Pickup! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Articles-Hub/ROBLOXScript/refs/heads/main/File-Script/Raise%20a%20floppa.lua'))()"
+    },
     "video407": {
         "url": "https://www.youtube.com/watch?v=MlYIMCleIO8",
         "title": "[OP 💀] Noobs Must Die 🔥 No Linkvertise! Auto Kill Noobs!! 🔥 PC & Mobile! (2025)",
