@@ -17,6 +17,8 @@ local games = {
 	"Throw stuff for money",
 	"Car Training",
 	"Rebirth Champions: Ultimate",
-	"Bubble Gum Simulator INFINITY"
+	"Bubble Gum Simulator INFINITY",
+	"Brainrot Evolution",
+	"Saber Simulator"
 }
 return games
