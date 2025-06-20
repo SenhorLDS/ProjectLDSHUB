@@ -1,4 +1,9 @@
 {
+    "video411": {
+        "url": "https://www.youtube.com/watch?v=K441M4ICBQU",
+        "title": "[New! 🚂] Dead Rails 🔥 No Linkvertise! ESP! / Teleport / EZ WIN! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Qiwikox12/stubrawl/refs/heads/main/DeadRails.txt'))()"
+    },
     "video410": {
         "url": "https://www.youtube.com/watch?v=ua36Mnes0BA",
         "title": "[Best ⚔️] The Survival Game 🔥 No Linkvertise! Anti Staff / ESP / Speed 🔥 PC & Mobile! (2025)",
