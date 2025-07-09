@@ -1,4 +1,9 @@
 {
+    "video415": {
+        "url": "https://www.youtube.com/watch?v=cAyUXo3TJHY",
+        "title": "[OP ⚡] Legends Of Speed 🔥 No Linkvertise! Auto Speed / Auto Race 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Zynox-Dev/Legends-Of-Speed-script/refs/heads/main/Script.lua'))()"
+    },
     "video414": {
         "url": "https://www.youtube.com/watch?v=6_t5RVvkydY",
         "title": "[LDS HUB! 🐶] Steal a Pet 🔥 No Linkvertise! Auto Lock Base / Auto Collect 🔥 PC & Mobile! (2025)",
