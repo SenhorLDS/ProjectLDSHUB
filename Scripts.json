@@ -1,4 +1,9 @@
 {
+    "video416": {
+        "url": "https://www.youtube.com/watch?v=DDnC42G46ts",
+        "title": "[Update 👤] Steal a Character 🔥 No Linkvertise! Auto Lock! / Auto Collect 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/gumanba/Scripts/main/StealaCharacter'))()"
+    },
     "video415": {
         "url": "https://www.youtube.com/watch?v=cAyUXo3TJHY",
         "title": "[OP ⚡] Legends Of Speed 🔥 No Linkvertise! Auto Speed / Auto Race 🔥 PC & Mobile! (2025)",
