@@ -1,4 +1,9 @@
 {
+    "video421": {
+        "url": "https://www.youtube.com/watch?v=w46NcPmK-Nk",
+        "title": "[New! 🍖] Feed Your Pet! 🔥 No Linkvertise! Auto Upgrade / Auto Farm 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://ashlabs.me/api/game?name=Feed-your-pet.lua', true))()"
+    },
     "video420": {
         "url": "https://www.youtube.com/watch?v=YPsSypfpl24",
         "title": "[LDS HUB 🏖️] Murder Mystery 2 🔥 No Linkvertise! Summer Event / Auto Farm Coins 🔥 PC & Mobile! (2025)",
