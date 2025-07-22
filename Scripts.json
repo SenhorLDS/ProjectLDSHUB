@@ -1,4 +1,9 @@
 {
+    "video423": {
+        "url": "https://www.youtube.com/watch?v=DAWZhHgTK-I",
+        "title": "[Hub 🌻] Garden Tower Defense 🔥 No Linkvertise! Record / Auto Play / Skip Wave 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/abcconfirm/yuuuur/refs/heads/main/voidhub.lua'))()"
+    },
     "video422": {
         "url": "https://www.youtube.com/watch?v=qJumoGAbZA0",
         "title": "[Update 🦑] Ink Game 🔥 No Linkvertise! Anti Ragdoll / Troll Options! 🔥 PC & Mobile! (2025)",
