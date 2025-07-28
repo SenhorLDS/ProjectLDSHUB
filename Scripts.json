@@ -1,4 +1,9 @@
 {
+    "video425": {
+        "url": "https://www.youtube.com/watch?v=IAx3bAryxN8",
+        "title": "[OP 🌲] 99 Nights in the Forest 🔥 No Linkvertise! Bring Itens / Fly / ESP! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Iliankytb/Iliankytb/main/Best99NightsInTheForest'))()"
+    },
     "video424": {
         "url": "https://www.youtube.com/watch?v=VhIpoHVCPxs",
         "title": "[LDS HUB! ✔] Arm Wrestle Simulator 🔥 No Linkvertise! SQUID GAME Event Part 3!! 🔥 PC & Mobile! (2025)",
