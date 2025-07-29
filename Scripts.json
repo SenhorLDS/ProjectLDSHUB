@@ -1,4 +1,9 @@
 {
+    "video427": {
+        "url": "https://www.youtube.com/watch?v=MC7Swa1rkkw",
+        "title": "[New! 🚗] Mad Road 🔥 No Linkvertise! Get Itens / ESP / AIMBOT! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Kaitofyp/Mad-Road/refs/heads/main/Protected_1487690414984317.lua.txt'))()"
+    },
     "video426": {
         "url": "https://www.youtube.com/watch?v=GRA5gpe1BKE",
         "title": "[Best 🐟] Steal A Fish! 🔥 No Linkvertise! Auto Steal / Auto Lock / Speed Option 🔥 PC & Mobile! (2025)",
