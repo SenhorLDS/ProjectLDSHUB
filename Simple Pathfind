@@ -339,3 +339,4 @@ function Path:Run(target)
 	end
 	return true
 end
+return Path
