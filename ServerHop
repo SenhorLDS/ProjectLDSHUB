@@ -1,0 +1,73 @@
+local HttpService = game:GetService("HttpService")
+local TeleportService = game:GetService("TeleportService")
+local Players = game:GetService("Players")
+
+local PlaceID = game.PlaceId
+local AllIDs = {}
+local FileName = "NotSameServers.json"
+local ExpirationTime = 30 * 60 -- 30 minutos em segundos
+local foundCursor = ""
+
+-- Carrega ou inicializa a tabela de servidores
+local now = os.time()
+local success, data = pcall(function()
+    return HttpService:JSONDecode(readfile(FileName))
+end)
+
+if success and typeof(data) == "table" then
+    for id, timestamp in pairs(data) do
+        if now - timestamp < ExpirationTime then
+            AllIDs[id] = timestamp
+        end
+    end
+else
+    AllIDs = {}
+end
+
+local function SaveIDs()
+    pcall(function()
+        writefile(FileName, HttpService:JSONEncode(AllIDs))
+    end)
+end
+
+local function TPReturner()
+    local url = "https://games.roblox.com/v1/games/" .. PlaceID .. "/servers/Public?sortOrder=Asc&limit=100"
+    if foundCursor ~= "" then
+        url = url .. "&cursor=" .. foundCursor
+    end
+
+    local response = HttpService:JSONDecode(game:HttpGet(url))
+    foundCursor = response.nextPageCursor or ""
+
+    for _, server in ipairs(response.data) do
+        local id = tostring(server.id)
+        local maxPlayers = tonumber(server.maxPlayers)
+        local currentPlayers = tonumber(server.playing)
+
+        if currentPlayers < maxPlayers - 2 and not AllIDs[id] then
+            AllIDs[id] = os.time()
+            SaveIDs()
+
+            pcall(function()
+                TeleportService:TeleportToPlaceInstance(PlaceID, id, Players.LocalPlayer)
+            end)
+            
+            wait(4) -- Pequena pausa após o teleport
+            break
+        end
+    end
+end
+
+local function Teleport()
+    while task.wait() do
+        pcall(function()
+            TPReturner()
+            if foundCursor ~= "" then
+                TPReturner()
+            end
+        end)
+    end
+end
+
+-- Se quiser rodar algo antes do teleport, coloque aqui
+Teleport()
