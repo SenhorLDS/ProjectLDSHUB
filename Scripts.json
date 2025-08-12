@@ -1,4 +1,9 @@
 {
+    "video433": {
+        "url": "https://www.youtube.com/watch?v=lY4tuJfL_5A",
+        "title": "[OP 🏆] Build A Plane 🔥 No Linkvertise! Auto Fly / INF Money 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/BuildAPlane', true))()"
+    },
     "video432": {
         "url": "https://www.youtube.com/watch?v=-VPwVeczZAw",
         "title": "[New 🌊] Vox Seas 🔥 No Linkvertise! Auto Quest / Auto Level 🔥 PC & Mobile! (2025)",
